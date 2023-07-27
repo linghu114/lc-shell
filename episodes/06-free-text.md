@@ -389,7 +389,7 @@ count for each word in it. This is data we can prod and poke
 and visualise, that can form the basis of our investigations,
 and can compare with other texts processed in the same way.
 And if we need to run a different set of transformation for
-a different analysis, we can return to `diary-final.txt` to start that work.
+a different analysis, we can return to `diary-clean.txt` to start that work.
 
 And all this using a few commands on an otherwise unassuming but very powerful command line.
 
